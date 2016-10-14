@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.watchos.exclude_files = [ 'Money/iOS' ]
   s.tvos.exclude_files = [ 'Money/iOS' ]  
   
-  s.dependency 'ValueCoding', :git => 'https://github.com/danthorpe/ValueCoding', :branch => 'release/2.0.0'
+  s.dependency 'ValueCoding'
 
 end
 
