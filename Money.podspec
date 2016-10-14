@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.watchos.exclude_files = [ 'Money/iOS' ]
   s.tvos.exclude_files = [ 'Money/iOS' ]  
   
-  s.dependency 'ValueCoding', '1.5.0'
+  s.dependency 'ValueCoding', '<= 1.5.0'
 
 end
 
