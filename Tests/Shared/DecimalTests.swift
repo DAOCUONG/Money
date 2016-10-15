@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import ValueCoding
+
 @testable import Money
 
 class DecimalTests: XCTestCase {

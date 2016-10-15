@@ -26,7 +26,6 @@
 
 import Foundation
 import PassKit
-import ValueCoding
 
 // MARK: - Pay equivalent types
 
